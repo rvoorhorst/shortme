@@ -1,6 +1,6 @@
 # Shortme
 
-A Django url shortening application
+A Django url shortening app.
 
 
 ## Requirements
